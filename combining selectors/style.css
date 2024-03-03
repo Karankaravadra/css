@@ -1,0 +1,15 @@
+.todo,.day{
+    color: blueviolet;
+}
+.box>p{
+    color: palegreen;
+}
+.box li{
+    color: brown;
+}
+li.day{
+    color: aqua;
+}
+ul p.other{
+    color: aquamarine;
+}
